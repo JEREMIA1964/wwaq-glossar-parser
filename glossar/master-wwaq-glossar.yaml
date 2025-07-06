@@ -1,0 +1,22 @@
+# WWAQ-TIKUN-GLOSSAR
+version: 5785.22.3
+transformationen:
+  K_zu_Q:
+    Kabbala: Qabbala
+    Kabbalah: Qabbala  
+    Kawana: Qawana
+    Kawanot: Qawanot
+    kabbalistisch: qabbalistisch
+    WWAK: WWAQ
+  Zer_Elimination:
+    zerstören: wandeln
+    zerbrechen: bersten
+    zerfallen: sich öffnen
+    zerstreuen: verteilen
+    verschwinden: schwinden
+    Zerstörung: Wandlung
+begriffe:
+  Zimzum: "Kontraktion des Unendlichen"
+  Tiqqun: "Reparatur/Wiederherstellung"
+  Dwekut: "Anhaftung an das Göttliche"
+Q!
